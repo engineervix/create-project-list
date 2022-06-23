@@ -35,7 +35,9 @@ def generate_project_list(organization: str) -> None:
     for repo in repositories:
         if repo.fork is False:
             logging.info(f"Now processing {repo.name} ...")
-            project = RichText(repo.name, url_id=doc.build_url_id(repo.html_url))  # noqa: E501
+            project = RichText(
+                repo.name, url_id=doc.build_url_id(repo.html_url)
+            )  # noqa: E501
             contents = repo.get_contents("")
             has_setup_py = any(
                 item.path for item in contents if item.path == "setup.py"
@@ -54,7 +56,9 @@ def create_docx_file(organization: str) -> None:
     logging.info("Now creating your docx file ...")
 
     doc.render(context)
-    doc.save(os.path.join(output_dir, f"{organization}_projects_{timestamp}.docx"))  # noqa: E501
+    doc.save(
+        os.path.join(output_dir, f"{organization}_projects_{timestamp}.docx")
+    )  # noqa: E501
 
 
 def main(args=None):
