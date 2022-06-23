@@ -1,0 +1,11 @@
+# core
+docxtpl
+PyGithub
+python-dotenv
+
+# dev
+black
+bpython
+flake8
+pip-tools
+isort
