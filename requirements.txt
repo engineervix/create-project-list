@@ -49,7 +49,7 @@ lxml==4.9.0
     #   python-docx
 markupsafe==2.1.1
     # via jinja2
-mccabe==0.6.1
+mccabe==0.7.0
     # via flake8
 mypy-extensions==0.4.3
     # via black
