@@ -8,7 +8,7 @@ black==22.6.0
     # via -r requirements.in
 blessings==1.7
     # via curtsies
-bpython==0.22.1
+bpython==0.23
     # via -r requirements.in
 certifi==2022.6.15
     # via requests
