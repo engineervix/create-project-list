@@ -79,7 +79,7 @@ python-docx==0.8.11
     # via
     #   docxcompose
     #   docxtpl
-python-dotenv==0.20.0
+python-dotenv==0.21.0
     # via -r requirements.in
 pyxdg==0.28
     # via bpython
