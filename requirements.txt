@@ -10,7 +10,7 @@ blessings==1.7
     # via curtsies
 bpython==0.23
     # via -r requirements.in
-certifi==2022.9.14
+certifi==2022.9.24
     # via requests
 cffi==1.15.1
     # via pynacl
