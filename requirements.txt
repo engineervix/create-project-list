@@ -28,7 +28,7 @@ cwcwidth==0.1.7
     #   curtsies
 deprecated==1.2.13
     # via pygithub
-docxcompose==1.3.5
+docxcompose==1.3.6
     # via docxtpl
 docxtpl==0.16.4
     # via -r requirements.in
