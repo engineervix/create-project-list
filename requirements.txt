@@ -67,7 +67,7 @@ pycparser==2.21
     # via cffi
 pyflakes==2.5.0
     # via flake8
-pygithub==1.56
+pygithub==1.57
     # via -r requirements.in
 pygments==2.13.0
     # via bpython
