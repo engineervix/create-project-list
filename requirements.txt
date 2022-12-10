@@ -59,7 +59,7 @@ pep517==0.13.0
     # via pip-tools
 pip-tools==6.11.0
     # via -r requirements.in
-platformdirs==2.5.4
+platformdirs==2.6.0
     # via black
 pycodestyle==2.10.0
     # via flake8
