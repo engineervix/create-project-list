@@ -42,7 +42,7 @@ isort==5.11.2
     # via -r requirements.in
 jinja2==3.1.2
     # via docxtpl
-lxml==4.9.1
+lxml==4.9.2
     # via
     #   docxcompose
     #   docxtpl
