@@ -30,7 +30,7 @@ deprecated==1.2.13
     # via pygithub
 docxcompose==1.4.0
     # via docxtpl
-docxtpl==0.16.4
+docxtpl==0.16.5
     # via -r requirements.in
 flake8==4.0.1
     # via -r requirements.in
