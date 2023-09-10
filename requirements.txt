@@ -102,7 +102,7 @@ typing-extensions==4.7.1
     #   bpython
 urllib3==1.26.16
     # via requests
-wheel==0.38.4
+wheel==0.41.2
     # via pip-tools
 wrapt==1.14.1
     # via deprecated
