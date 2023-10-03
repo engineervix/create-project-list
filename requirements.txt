@@ -100,7 +100,7 @@ typing-extensions==4.7.1
     # via
     #   black
     #   bpython
-urllib3==1.26.16
+urllib3==1.26.17
     # via requests
 wheel==0.41.2
     # via pip-tools
