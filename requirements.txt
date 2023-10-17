@@ -22,7 +22,7 @@ click==8.1.7
     #   pip-tools
 curtsies==0.4.2
     # via bpython
-cwcwidth==0.1.8
+cwcwidth==0.1.9
     # via
     #   bpython
     #   curtsies
