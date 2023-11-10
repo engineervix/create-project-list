@@ -55,7 +55,7 @@ mypy-extensions==0.4.4
     # via black
 pathspec==0.11.2
     # via black
-pep517==0.13.0
+pep517==0.13.1
     # via pip-tools
 pip-tools==6.14.0
     # via -r requirements.in
