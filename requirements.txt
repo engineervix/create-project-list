@@ -16,7 +16,7 @@ cffi==1.16.0
     # via pynacl
 charset-normalizer==2.1.1
     # via requests
-click==8.1.7
+click==8.1.8
     # via
     #   black
     #   pip-tools
