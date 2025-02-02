@@ -61,7 +61,7 @@ pip-tools==6.14.0
     # via -r requirements.in
 platformdirs==2.6.2
     # via black
-pycodestyle==2.11.1
+pycodestyle==2.12.1
     # via flake8
 pycparser==2.21
     # via cffi
