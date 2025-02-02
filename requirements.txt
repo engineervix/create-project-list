@@ -63,7 +63,7 @@ platformdirs==2.6.2
     # via black
 pycodestyle==2.12.1
     # via flake8
-pycparser==2.21
+pycparser==2.22
     # via cffi
 pyflakes==2.5.0
     # via flake8
