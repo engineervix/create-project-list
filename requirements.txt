@@ -92,7 +92,7 @@ six==1.17.0
     #   blessings
     #   docxcompose
     #   docxtpl
-tomli==2.0.1
+tomli==2.2.1
     # via
     #   black
     #   pep517
