@@ -87,7 +87,7 @@ requests==2.32.3
     # via
     #   bpython
     #   pygithub
-six==1.16.0
+six==1.17.0
     # via
     #   blessings
     #   docxcompose
