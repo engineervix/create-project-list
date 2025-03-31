@@ -65,7 +65,7 @@ pycodestyle==2.12.1
     # via flake8
 pycparser==2.22
     # via cffi
-pyflakes==2.5.0
+pyflakes==3.3.2
     # via flake8
 pygithub==1.59.1
     # via -r requirements.in
